@@ -1,0 +1,13 @@
+.vscode/
+venv/
+*.zip
+.DS_Store
+test_data/iris/
+# test_data/mnist/
+test_data/temp_extract.py
+test_data/turkish_music_default.csv
+
+# Files too large for GitHub
+mnist_test.csv
+mnist_train.csv
+mnist2d.csv
