@@ -5,6 +5,8 @@ We have established that minimum spanning trees are not unique, and that the HDB
 
 But not just for weird, taylor-made exceptions, it seems to happen often in real-world data as well.
 
+Slides for an associated presentation exist in [another repo](https://github.com/ezekielcochran/spring-2024-science-seminar/blob/main/main.pdf).
+
 ### Todo
 + Add more data sets as examples
 + Classify when exactly we get multiple MSTs
